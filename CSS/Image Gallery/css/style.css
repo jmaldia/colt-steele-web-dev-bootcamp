@@ -6,3 +6,16 @@ body {
     display: flex;
     flex-wrap: wrap;
 } 
+
+.bg-dark {
+	background-color: #2f3640!important;
+}
+
+/*.navbar-dark .navbar-brand, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #2f3640;
+}*/
+
+.jumbotron {
+	color: #ffffff;
+	background-color: #7f8fa6;
+}
