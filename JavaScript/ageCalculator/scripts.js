@@ -1,4 +1,4 @@
-var birthday = prompt("What's your birthday?");
+var birthday = prompt("What's your birthday? Format - MM-DD-YYYY");
 
 function getAge(dateString) {
     var today = new Date();
